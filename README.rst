@@ -7,11 +7,11 @@ django-hostproof-auth
 .. image:: https://coveralls.io/repos/jpintado/django-hostproof-auth/badge.svg?branch=master
   :target: https://coveralls.io/r/jpintado/django-hostproof-auth?branch=master
 
-.. image:: https://pypip.in/v/django_hostproof_auth/badge.png
+.. image:: https://img.shields.io/pypi/v/django_hostproof_auth.svg
     :target: https://crate.io/packages/django_hostproof_auth/
     :alt: Latest PyPI version
 
-.. image:: https://pypip.in/d/django_hostproof_auth/badge.png
+.. image:: https://img.shields.io/pypi/dm/django_hostproof_auth.svg
     :target: https://crate.io/packages/django_hostproof_auth/
     :alt: Number of PyPI downloads
 
